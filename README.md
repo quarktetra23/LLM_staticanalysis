@@ -1,7 +1,7 @@
 # LLM_staticanalysis
 Static Code Analaysis for LLM's
 
-If the reader is interested in the methodology or experiment, look for report.pdf in the repo. 
+If the reader is interested in the methodology or experiment, look for Report_LLM_Code_genration_Analysis.pdf in the repo. 
 
 Results for the study:
 
