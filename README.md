@@ -1,7 +1,7 @@
 # LLM_staticanalysis
 Static Code Analaysis for LLM's
 
-Short experiment run by me and my peers for fun. If the reader is interested in the methodology or experiment, look for Report_LLM_Code_genration_Analysis.pdf in the repo. 
+Short experiment run by me and my peers for High Performance Computing. If the reader is interested in the methodology or experiment, look for Report_LLM_Code_genration_Analysis.pdf in the repo. 
 
 Crux of the study:
 
